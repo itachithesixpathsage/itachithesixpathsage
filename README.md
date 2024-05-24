@@ -29,15 +29,15 @@ Welcome to my GitHub profile! I'm a passionate self-taught developer with a love
 
 ## Skills
 
-- **Languages**: JavaScript, Python, HTML, CSS, [Other Languages]
+- **Languages**: JavaScript, Python, HTML, CSS, PHP, SQL
 - **Frameworks/Libraries**: React, Node.js, Express, Angular.js, Vue
 - **Tools**: Git, GitHub, VS Code.
 
 ## Get in Touch
 
 - 📫 How to reach me: neversonkawana@outlook.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Portfolio: [Your Portfolio Website]
+<!-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 🌐 Portfolio: [Your Portfolio Website]-->
 
 ## Fun Facts
 
